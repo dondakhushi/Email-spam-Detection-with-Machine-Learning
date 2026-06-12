@@ -132,7 +132,7 @@ python Email-spam-Detection-with-Machine-Learning.py
 ## 📈 Sample Results
 
 ```text
-Accuracy: 98.3%
+Accuracy: 96.62 %
 
 Spam Detection Successful
 ```
